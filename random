@@ -1,0 +1,5 @@
+import random
+chars = "abcdefghijklmnopqrstuvwxyz"
+
+#괄호 안의 항목 중 하나를 무작위로 반환
+random.choice(chars)
